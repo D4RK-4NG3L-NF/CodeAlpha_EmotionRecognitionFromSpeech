@@ -1,0 +1,21 @@
+
+print("====================================")
+print("  SPEECH EMOTION RECOGNITION SYSTEM")
+print("====================================")
+
+print("Project: CodeAlpha Project 2")
+print("Python environment: Python 3.11")
+print("Dataset: RAVDESS")
+print("Status: Project setup in progress")
+
+print("\nOur goal:")
+print("Recognize emotions from spoken audio.")
+print("Possible emotions include:")
+print("- Neutral")
+print("- Calm")
+print("- Happy")
+print("- Sad")
+print("- Angry")
+print("- Fearful")
+print("- Disgust")
+print("- Surprised")
