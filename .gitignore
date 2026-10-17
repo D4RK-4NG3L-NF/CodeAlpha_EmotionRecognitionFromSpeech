@@ -1,0 +1,13 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Original audio dataset and downloaded archives
+dataset/
+
+# Local environment variables and secrets
+.env
